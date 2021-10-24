@@ -1,0 +1,7 @@
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\Proyectos\Electrodomesticos\bin\Debug\Electrodomesticos.exe.config
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\Proyectos\Electrodomesticos\bin\Debug\Electrodomesticos.exe
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\Proyectos\Electrodomesticos\bin\Debug\Electrodomesticos.pdb
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\Proyectos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.AssemblyReference.cache
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\Proyectos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\Proyectos\Electrodomesticos\obj\Debug\Electrodomesticos.exe
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\Proyectos\Electrodomesticos\obj\Debug\Electrodomesticos.pdb
